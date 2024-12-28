@@ -3,7 +3,7 @@
 Your essential toolkit for optimizing launches on Pump.Fun. Infinity Scripts offers a suite of specialized automation tools designed to streamline project deployment, enhance visibility, and provide real-time analytics within the Pump.Fun ecosystem.
 
 
-![img](https://infinityscript.io/assets/infinityaio-tool.png)
+![img](https://i.imgur.com/MZ8oOvp.jpeg)
 
 
 > [!NOTE]
@@ -32,9 +32,6 @@ Your essential toolkit for optimizing launches on Pump.Fun. Infinity Scripts off
 
 ### 👁‍🗨 MONITORS
 - Infinity Scripts offers a range of different monitors to help you keep track of the latest projects on pump.fun! With the ability to track the latest projects, and see how they are performing, you can easily stay ahead of the curve and make the best decisions for your investments. We offer 3 different monitors: New Tokens Monitor, FIltered Tokens Monitor, and new Raydium LPs Monitor. Each monitor sends a detailed discord webhook to your desired server.
-
-## 🛸 WEBSITE
-[infinityscript.io](https://infinityscript.io/)
 
 ## 🛰 Disclaimer
 Use those scripts at your own risk. 
