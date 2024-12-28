@@ -1,0 +1,9 @@
+{
+    "sellPercentage": 100,
+    "minBuyValue": 0.05,
+    "sellMode": "all",
+    "_sellPercentageInfo": "Percentage of holdings to sell PER wallet (1 - 100)",
+    "_minBuyValueInfo": "Minimum value to buy in SOL to trigger smart profit selling",
+    "sellModeInfo": "single = sell a singluar wallet | all = sell all wallets"
+}
+

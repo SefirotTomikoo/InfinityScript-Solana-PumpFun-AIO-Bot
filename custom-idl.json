@@ -1,0 +1,92 @@
+{
+    "version": "0.1.0",
+    "name": "infinity_program",
+    "instructions": [
+      {
+        "name": "pumpfunBuy",
+        "accounts": [
+          {
+            "name": "global",
+            "isMut": true,
+            "isSigner": false
+          },
+          {
+            "name": "feeRecipient",
+            "isMut": true,
+            "isSigner": false
+          },
+          {
+            "name": "mint",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "bondingCurve",
+            "isMut": true,
+            "isSigner": false
+          },
+          {
+            "name": "associatedBondingCurve",
+            "isMut": true,
+            "isSigner": false
+          },
+          {
+            "name": "associatedUser",
+            "isMut": true,
+            "isSigner": false
+          },
+          {
+            "name": "user",
+            "isMut": true,
+            "isSigner": true
+          },
+          {
+            "name": "fromAccount",
+            "isMut": true,
+            "isSigner": false
+          },
+          {
+            "name": "systemProgram",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "tokenProgram",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "associatedTokenProgram",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "rent",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "eventAuthority",
+            "isMut": false,
+            "isSigner": false
+          },
+          {
+            "name": "program",
+            "isMut": false,
+            "isSigner": false
+          }
+        ],
+        "args": [
+          {
+            "name": "solAmount",
+            "type": "u64"
+          },
+          {
+            "name": "maxSolCost",
+            "type": "u64"
+          }
+        ]
+      }
+    ]
+  }
+  
